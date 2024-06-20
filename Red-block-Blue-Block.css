@@ -1,0 +1,16 @@
+div{
+    border: dotted red;
+    }
+#blue{
+    width: 800px;
+    height: 800px;
+    background-color: blue;
+}
+#red{
+    width: 75px;
+    height: 75px;
+    background-color: red;
+    overflow: auto;
+    margin-left: 350px;
+    margin-top: 350px;
+}
