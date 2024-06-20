@@ -10,3 +10,4 @@
 shanfar360/shanfar360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I am currently taking a course about full-stack Python. I am also learning HTML and CSS. I am enjoying coding.
