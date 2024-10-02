@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanfar360
 - 👀 I’m interested in learning Python.
-- 🌱 I’m currently learning Python.
+- 🌱 I have just finished full stack Python.
 - 💞️ I’m looking to collaborate with other teams in Python.
 - 📫 you can reach me through my email.
 - 😄 Pronouns: Saeed
